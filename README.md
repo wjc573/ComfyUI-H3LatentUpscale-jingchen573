@@ -13,8 +13,19 @@ A minimal ComfyUI custom node for safely upscaling MiniMax H3 video latents befo
 >
 > 边缘效果对比：
 >
-> - [官方 `LatentUpscaleBy`：边缘色条异常](./原comfyui节点测试，边缘异常.mp4)
-> - [本节点：边缘正常](./该项目的节点测试，边缘正常.mp4)
+> - [官方 `LatentUpscaleBy`：边缘色条异常]
+> - 
+
+https://github.com/user-attachments/assets/9d827b25-761d-4907-a796-e48c24748864
+
+
+
+> - [本节点：边缘正常]
+> - 
+
+https://github.com/user-attachments/assets/06969417-3cb5-4020-aeee-7c2e936860d1
+
+
 
 ---
 
