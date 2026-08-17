@@ -12,20 +12,17 @@ A minimal ComfyUI custom node for safely upscaling MiniMax H3 video latents befo
 > [MiniMax H3 latent 放大双采 + 8 步 LoRA 在线工作流](https://www.runninghub.ai/post/2088079643785330689?inviteCode=rh-v1495)
 >
 > 边缘效果对比：
->
-> - [官方 `LatentUpscaleBy`：边缘色条异常]
-> - 
 
-https://github.com/user-attachments/assets/9d827b25-761d-4907-a796-e48c24748864
-
-
-
-> - [本节点：边缘正常]
-> - 
-
-https://github.com/user-attachments/assets/06969417-3cb5-4020-aeee-7c2e936860d1
-
-
+<table>
+  <tr>
+    <th width="50%">官方 <code>LatentUpscaleBy</code>：边缘色条异常</th>
+    <th width="50%">本节点：边缘正常</th>
+  </tr>
+  <tr>
+    <td><video src="https://github.com/user-attachments/assets/9d827b25-761d-4907-a796-e48c24748864" controls width="100%"></video></td>
+    <td><video src="https://github.com/user-attachments/assets/06969417-3cb5-4020-aeee-7c2e936860d1" controls width="100%"></video></td>
+  </tr>
+</table>
 
 ---
 
