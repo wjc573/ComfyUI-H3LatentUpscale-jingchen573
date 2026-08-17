@@ -6,6 +6,16 @@ A minimal ComfyUI custom node for safely upscaling MiniMax H3 video latents befo
 
 一个用于 MiniMax H3 二次采样前安全放大视频 latent 的轻量 ComfyUI 自定义节点。
 
+> **在线工作流与效果对比**
+>
+> 可在 RunningHub 免费查看并下载配套工作流体验：
+> [MiniMax H3 latent 放大双采 + 8 步 LoRA 在线工作流](https://www.runninghub.ai/post/2088079643785330689?inviteCode=rh-v1495)
+>
+> 边缘效果对比：
+>
+> - [官方 `LatentUpscaleBy`：边缘色条异常](./原comfyui节点测试，边缘异常.mp4)
+> - [本节点：边缘正常](./该项目的节点测试，边缘正常.mp4)
+
 ---
 
 ## 中文
